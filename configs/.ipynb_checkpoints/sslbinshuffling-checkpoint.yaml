@@ -1,0 +1,21 @@
+modelname: sslbinshuffling
+params:
+    depth: 2
+    width: 256
+    dropout: 0.1
+    normalization: batchnorm
+    activation: relu
+    optimizer: Adam
+    ssl_learning_rate: 0.001
+    ssl_weight_decay: 0.
+    ssl_lr_scheduler: False
+    ssl_epochs: 1000
+    le_learning_rate: 0.01
+    le_weight_decay: 0.
+    le_lr_scheduler: True
+    le_epochs: 100
+    ft_learning_rate: 0.001
+    ft_weight_decay: 0.00001
+    ft_lr_scheduler: True
+    ft_epochs: 100
+    transform: binshuffling

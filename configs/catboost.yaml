@@ -1,0 +1,5 @@
+modelname: catboost
+params:
+    n_estimators: 2000
+    depth: 10
+    learning_rate: 0.001

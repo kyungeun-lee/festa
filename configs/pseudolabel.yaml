@@ -1,0 +1,15 @@
+modelname: pseudolabel-masking
+params:
+    depth: 2
+    width: 1024
+    dropout: 0.1
+    normalization: 
+    activation: relu
+    optimizer: AdamW
+    learning_rate: 0.001
+    weight_decay: 0.0001
+    lr_scheduler: True
+    n_epochs: 100
+    weak_mask: 0.1
+    strong_mask: 0.7
+    unsup_weight: 1

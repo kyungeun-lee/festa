@@ -1,0 +1,13 @@
+modelname: sslsaint
+params:
+    ssl_epochs: 50
+    le_learning_rate: 0.01
+    le_weight_decay: 0.
+    le_lr_scheduler: True
+    le_epochs: 100
+    ft_learning_rate: 0.001
+    ft_weight_decay: 0.00001
+    ft_lr_scheduler: True
+    ft_epochs: 100
+    corruption_rate: 0.6
+    transform: scarf

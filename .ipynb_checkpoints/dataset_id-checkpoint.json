@@ -1,0 +1,1318 @@
+{
+    "43986": {
+        "name": "WQ", 
+        "fullname": "wine quality",
+        "tasktype": "multiclass"
+    },
+    
+    "4538": {
+        "name": "GE",
+        "fullname": "gesture phase",
+        "tasktype": "multiclass"
+    },
+    
+    "999999": {
+        "name": "CA",
+        "fullname": "california housing",
+        "tasktype": "regression"
+    },
+        
+    "45068": {
+        "name": "AD",
+        "fullname": "adult",
+        "tasktype": "binclass"
+    },
+    
+    "41169": {
+        "name": "HE",
+        "fullname": "helena",
+        "tasktype": "multiclass"
+    },
+    
+    "45062": {
+        "name": "CH",
+        "fullname": "churn modeling",
+        "tasktype": "binclass"
+    },
+            
+    "537": {
+        "name": "HO",
+        "fullname": "housing 16H",
+        "tasktype": "regression"
+    },
+    
+    "45012": {
+        "name": "FI",
+        "fullname": "FIFA",
+        "tasktype": "regression"
+    },
+    
+    "40981": {
+        "name": "AT",
+        "fullname": "australian",
+        "task_id": "146818",
+        "tasktype": "binclass"
+    },
+        
+    "41150": {
+        "name": "MB",
+        "fullname": "MiniBooNE",
+        "task_id": "168335",
+        "tasktype": "binclass"
+    },
+    
+    "40536": {
+        "name": "SD",
+        "fullname": "SpeedDating",
+        "task_id": "146607",
+        "tasktype": "binclass"
+    },
+    
+    "1043": {
+        "name": "AA",
+        "fullname": "ada agnostic",
+        "task_id": "3896",
+        "tasktype": "binclass"
+    },
+    
+    "1169": {
+        "name": "AIR",
+        "fullname": "airlines",
+        "task_id": "189354",
+        "tasktype": "binclass"
+    },
+    
+    "41147": {
+        "name": "AB",
+        "fullname": "albert",
+        "task_id": "189356",
+        "tasktype": "binclass"
+    },
+    
+    "1459": {
+        "name": "AC",
+        "fullname": "artificial characters",
+        "task_id": "14964",
+        "tasktype": "multiclass"
+    },
+    
+    "7": {
+        "name": "AU",
+        "fullname": "audiology",
+        "task_id": "7",
+        "tasktype": "multiclass"
+    },
+    
+    "11": {
+        "name": "BS",
+        "fullname": "balance scale",
+        "task_id": "11",
+        "tasktype": "multiclass"
+    },
+    
+    "452": {
+        "name": "BW",
+        "fullname": "analcatdata_broadwaymult",
+        "tasktype": "multiclass"
+    },
+    
+    "25": {
+        "name": "CL",
+        "fullname": "colic",
+        "task_id": "25",
+        "tasktype": "binclass"
+    },
+    
+    "29": {
+        "name": "CV",
+        "fullname": "credit-approval",
+        "task_id": "29",
+        "tasktype": "binclass"
+    },
+    
+    "151": {
+        "name": "EL",
+        "fullname": "electricity",
+        "task_id": "219",
+        "tasktype": "binclass"
+    },
+    
+    "846": {
+        "name": "EV",
+        "fullname": "elevators",
+        "task_id": "3711",
+        "tasktype": "binclass" 
+    },
+        
+    "51": {
+        "name": "HH",
+        "fullname": "heart-h",
+        "task_id": "50",
+        "tasktype": "binclass"
+    },
+    
+    "41143": {
+        "name": "JA",
+        "fullname": "jasmine",
+        "task_id": "168911",
+        "tasktype": "binclass"
+    },
+    
+    "41027": {
+        "name": "JU",
+        "fullname": "jungle_chess_2pcs_raw_endgame_complete",
+        "task_id": "167119",
+        "tasktype": "multiclass"
+    },
+    
+    "1067": {
+        "name": "KC",
+        "fullname": "kc1",
+        "task_id": "3917",
+        "tasktype": "binclass"
+    },
+    
+    "10": {
+        "name": "LY",
+        "fullname": "lymph",
+        "task_id": "10",
+        "tasktype": "multiclass"
+    },
+    
+    "14": {
+        "name": "MF",
+        "fullname": "mfeat-fourier",
+        "task_id": "14",
+        "tasktype": "multiclass"
+    },
+    
+    "22": {
+        "name": "MZ",
+        "fullname": "mfeat-zernike",
+        "task_id": "22",
+        "tasktype": "multiclass"
+    },
+    
+    "334": {
+        "name": "MO",
+        "fullname": "monks-problems-2",
+        "task_id": "146065",
+        "tasktype": "binclass"
+    },
+    
+    "1486": {
+        "name": "NM",
+        "fullname": "nomao",
+        "task_id": "9977",
+        "tasktype": "binclass"
+    },
+    
+    "1493": {
+        "name": "PT",
+        "fullname": "one-hundred-plants-texture",
+        "task_id": "9956",
+        "tasktype": "multiclass"
+    },
+    
+    "1567": {
+        "name": "PK",
+        "fullname": "poker-hand",
+        "task_id": "9890",
+        "tasktype": "multiclass"
+    },
+    
+    "470": {
+        "name": "PB",
+        "fullname": "profb",
+        "task_id": "3561",
+        "tasktype": "binclass"
+    },
+    
+    "1494": {
+        "name": "QB",
+        "fullname": "qsar-biodeg",
+        "task_id": "9957",
+        "tasktype": "binclass"
+    },
+    
+    "934": {
+        "name": "SC",
+        "fullname": "socmob",
+        "task_id": "3797",
+        "tasktype": "binclass"
+    },
+    
+    "46": {
+        "name": "SP",
+        "fullname": "splice",
+        "task_id": "45",
+        "tasktype": "multiclass"
+    },
+    
+    "54": {
+        "name": "VE",
+        "fullname": "vehicle",
+        "task_id": "53",
+        "tasktype": "multiclass"
+    },
+    
+    "31": {
+        "name": "CS",
+        "fullname": "credit-g",
+        "task_id": "31",
+        "tasktype": "binclass"
+    },
+    
+    "1489": {
+        "name": "PO",
+        "fullname": "phoneme",
+        "task_id": "9952",
+        "tasktype": "binclass"
+    },
+    
+    "23512": {
+        "name": "HI",
+        "fullname": "higgs small",
+        "task_id": "146606",
+        "tasktype": "binclass"
+    },
+    
+    "43466": {
+        "name": "BNA",
+        "fullname": "Bank-Note-AuthenticationUCI",
+        "task_id": "361002",
+        "tasktype": "regression"
+    },
+    
+    "1099": {
+        "name": "ES",
+        "fullname": "EgyptianSkulls",
+        "task_id": "5040",
+        "tasktype": "regression"
+    },
+    
+    "43611": {
+        "name": "WC",
+        "fullname": "Wisconsin-breastcancer-cytology-features",
+        "task_id": "361003",
+        "tasktype": "regression"
+    },
+    
+    "560": {
+        "name": "FAT",
+        "fullname": "bodyfat",
+        "task_id": "5514",
+        "tasktype": "regression"
+    },
+    
+    "703": {
+        "name": "CF",
+        "fullname": "chscase-foot",
+        "task_id": "5012",
+        "tasktype": "regression"
+    },
+    
+    "194": {
+        "name": "CD",
+        "fullname": "cleveland",
+        "task_id": "2285",
+        "tasktype": "regression"
+    },
+    
+    "42727": {
+        "name": "CG",
+        "fullname": "colleges",
+        "task_id": "359942",
+        "tasktype": "regression"
+    },
+    
+    "562": {
+        "name": "CPU",
+        "fullname": "cpu-small",
+        "task_id": "4883",
+        "tasktype": "regression"
+    },
+    
+    "42183": {
+        "name": "SA",
+        "fullname": "dataset-sales",
+        "task_id": "190418",
+        "tasktype": "regression"
+    },
+    
+    "189": {
+        "name": "KI",
+        "fullname": "kin8nm",
+        "task_id": "2280",
+        "tasktype": "regression"
+    },
+    
+    "8": {
+        "name": "LV",
+        "fullname": "liver-disorders",
+        "task_id": "52948",
+        "tasktype": "regression"
+    },
+    
+    
+    "566": {
+        "name": "ME",
+        "fullname": "meta",
+        "task_id": "4729",
+        "tasktype": "regression"
+    },
+    
+    
+    "344": {
+        "name": "MV",
+        "fullname": "mv",
+        "task_id": "4774",
+        "tasktype": "regression"
+    },
+    
+    
+    "524": {
+        "name": "PBC",
+        "fullname": "pbc",
+        "task_id": "4850",
+        "tasktype": "regression"
+    },
+    
+    
+    "497": {
+        "name": "VT",
+        "fullname": "veteran",
+        "task_id": "4828",
+        "tasktype": "regression"
+    },
+    
+    "44055": {
+        "name": "AS",
+        "fullname": "analcatdata_supreme",
+        "tasktype": "regression"
+    },
+    
+    "44061": {
+        "name": "BZ",
+        "fullname": "Mercedes_Benz_Greener_Manufacturing",
+        "tasktype": "regression"
+    },
+    
+    "44160": {
+        "name": "RL",
+        "fullname": "rl",
+        "tasktype": "binclass"
+    },
+    
+    "44160": {
+        "name": "RL",
+        "fullname": "rl",
+        "tasktype": "binclass"
+    },
+    
+    "44091": {
+        "name": "WB",
+        "fullname": "wine",
+        "tasktype": "binclass"
+    },
+    
+    "44158": {
+        "name": "KU",
+        "fullname": "KDDCup09_upselling",
+        "tasktype": "binclass"
+    },
+    
+    "44124": {
+        "name": "KL",
+        "fullname": "kdd_ipums_la_97-small",
+        "tasktype": "binclass"
+    },
+    
+    "44136": {
+        "name": "WR",
+        "fullname": "wine_quality",
+        "tasktype": "regression"
+    },
+    
+    "44157": {
+        "name": "EM",
+        "fullname": "eye_movements",
+        "tasktype": "binclass"
+    },
+    
+    "44132": {
+        "name": "CT",
+        "fullname": "cpu_act",
+        "tasktype": "regression"
+    },
+    
+    "44056": {
+        "name": "SO",
+        "fullname": "visualizing_soil",
+        "tasktype": "regression"
+    },
+    
+    "44054": {
+        "name": "YP",
+        "fullname": "yprop_4_1",
+        "tasktype": "regression"
+    },
+    
+    "44145": {
+        "name": "SF",
+        "fullname": "sulfur",
+        "tasktype": "regression"
+    },
+    
+    "44122": {
+        "name": "POB",
+        "fullname": "pol",
+        "tasktype": "binclass"
+    },
+    
+    "44133": {
+        "name": "POR",
+        "fullname": "pol",
+        "tasktype": "regression"
+    },
+    
+    "44126": {
+        "name": "BM",
+        "fullname": "bank-marketing",
+        "tasktype": "binclass"
+    },
+    
+    "44062": {
+        "name": "BH",
+        "fullname": "Brazilian_houses",
+        "tasktype": "regression"
+    },
+    
+    "44129": {
+        "name": "HIL",
+        "fullname": "Higgs",
+        "tasktype": "binclass"
+    },
+    
+    "44131": {
+        "name": "JN",
+        "fullname": "jannis",
+        "tasktype": "binclass"
+    },
+    
+    "44059": {
+        "name": "DIA",
+        "fullname": "diamonds",
+        "tasktype": "regression"
+    },
+    
+    "44134": {
+        "name": "EVR",
+        "fullname": "elevators",
+        "tasktype": "regression"
+    },
+    
+    "44027": {
+        "name": "YR",
+        "fullname": "year",
+        "tasktype": "regression"
+    },
+    
+    "44148": {
+        "name": "ST",
+        "fullname": "superconduct",
+        "tasktype": "regression"
+    },
+    
+    "44069": {
+        "name": "GPU",
+        "fullname": "SGEMM_GPU_kernel_performance",
+        "tasktype": "regression"
+    },
+    
+    "44161": {
+        "name": "RS",
+        "fullname": "road-safety",
+        "tasktype": "binclass"
+    },
+    
+    "44068": {
+        "name": "UKA",
+        "fullname": "particulate-matter-ukair-2017",
+        "tasktype": "regression"
+    },
+    
+    "44064": {
+        "name": "NP",
+        "fullname": "OnlineNewsPopularity",
+        "tasktype": "regression"
+    },
+    
+    "44065": {
+        "name": "NYC",
+        "fullname": "nyc-taxi-green-dec-2016",
+        "tasktype": "regression"
+    },
+    
+    "44125": {
+        "name": "MT",
+        "fullname": "MagicTelescope",
+        "tasktype": "binclass"
+    },
+    
+    "44066": {
+        "name": "HS",
+        "fullname": "house_sales",
+        "tasktype": "regression"
+    },
+    
+    "44123": {
+        "name": "HOB",
+        "fullname": "house_16H",
+        "tasktype": "binclass"
+    },
+    
+    "44026": {
+        "name": "FIS",
+        "fullname": "fifa",
+        "tasktype": "regression"
+    },
+    
+    "44159": {
+        "name": "CO",
+        "fullname": "covertype",
+        "tasktype": "binclass"
+    },
+    
+    "44089": {
+        "name": "CR",
+        "fullname": "credit",
+        "tasktype": "binclass"
+    },
+    
+    "44162": {
+        "name": "CPS",
+        "fullname": "compass",
+        "tasktype": "binclass"
+    },
+    
+    "44090": {
+        "name": "CAB",
+        "fullname": "california",
+        "tasktype": "binclass"
+    },
+    
+    "44057": {
+        "name": "BF",
+        "fullname": "black_friday",
+        "tasktype": "regression"
+    },
+    
+    "44063": {
+        "name": "BD",
+        "fullname": "Bike_Sharing_Demand",
+        "tasktype": "regression"
+    },
+    
+    "44137": {
+        "name": "AR",
+        "fullname": "Ailerons",
+        "tasktype": "regression"
+    },
+    
+    "41145": {
+        "name": "PH",
+        "fullname": "philippine",
+        "tasktype": "binclass"
+    },
+    
+    "45060": {
+        "name": "OS",
+        "fullname": "online_shoppers",
+        "tasktype": "binclass"
+    },
+    
+    "45548": {
+        "name": "OT",
+        "fullname": "Otto-Group-Product-Classification-Challenge",
+        "tasktype": "multiclass"
+    },
+        
+    "1464": {
+        "name": "BT",
+        "fullname": "blood-transfusion-service-center",
+        "tasktype": "binclass"
+    },
+    
+    "50": {
+        "name": "TTT",
+        "fullname": "tic-tac-toe",
+        "tasktype": "binclass"
+    },
+    
+    "1504": {
+        "name": "SPF",
+        "fullname": "steel-plates-fault",
+        "tasktype": "binclass"
+    },
+    
+    "37": {
+        "name": "PD",
+        "fullname": "diabetes",
+        "tasktype": "binclass"
+    },
+    
+    "1510": {
+        "name": "WCB",
+        "fullname": "Breast Cancer Wisconsin (Diagnostic) Data Set (WDBC)",
+        "tasktype": "binclass"
+    },
+    
+    "1487": {
+        "name": "OZ",
+        "fullname": "ozone-level-8hr",
+        "tasktype": "binclass"
+    },
+    
+    "1479": {
+        "name": "HV",
+        "fullname": "hill-valley",
+        "tasktype": "binclass"
+    },
+    
+    "1063": {
+        "name": "KD",
+        "fullname": "KC2 Software defect prediction",
+        "tasktype": "binclass"
+    },
+    
+    "1471": {
+        "name": "EEG",
+        "fullname": "eeg-eye-state",
+        "tasktype": "binclass"
+    },
+    
+    "1467": {
+        "name": "CMC",
+        "fullname": "climate-model-simulation-crashes",
+        "tasktype": "binclass"
+    },
+    
+    "150": {
+        "name": "CM",
+        "fullname": "covertype",
+        "tasktype": "multiclass"
+    },
+    
+    "41168": {
+        "name": "JM",
+        "fullname": "jannis",
+        "tasktype": "multiclass"
+    },
+    
+    "42": {
+        "name": "SB",
+        "fullname": "soybean",
+        "tasktype": "multiclass"
+    },
+        
+    "458": {
+        "name": "ATH",
+        "fullname": "analcatdata_authorship",
+        "tasktype": "multiclass"
+    },
+        
+    "188": {
+        "name": "EU",
+        "fullname": "eucalyptus",
+        "tasktype": "multiclass"
+    },
+    
+    "469": {
+        "name": "DM",
+        "fullname": "analcatdata_dmft",
+        "tasktype": "multiclass"
+    },
+    
+    "307": {
+        "name": "VW",
+        "fullname": "vowel",
+        "tasktype": "multiclass"
+    },
+    
+    "40496": {
+        "name": "LED",
+        "fullname": "LED-display-domain-7digit",
+        "tasktype": "multiclass"
+    },
+    
+    "1549": {
+        "name": "AUS",
+        "fullname": "autoUniv-au6-750",
+        "tasktype": "multiclass"
+    },
+    
+    "1555": {
+        "name": "AUL",
+        "fullname": "autoUniv-au6-1000",
+        "tasktype": "multiclass"
+    },
+    
+    "5": {
+        "name": "AE",
+        "fullname": "arrhythmia",
+        "tasktype": "multiclass"
+    },
+    
+    "48": {
+        "name": "TAE",
+        "fullname": "Teaching Assistant Evaluation",
+        "tasktype": "multiclass"
+    },
+    
+    "1462": {
+        "name": "BNB",
+        "fullname": "banknote-authentication",
+        "tasktype": "binclass"
+    },
+    
+    "1492": {
+        "name": "PS",
+        "fullname": "one-hundred-plants-shape",
+        "tasktype": "multiclass"
+    },
+            
+    "41700": {
+        "name": "CPM",
+        "fullname": "CPMP-2015-regression",
+        "tasktype": "regression"
+    },
+    
+    "422": {
+        "name": "TO",
+        "fullname": "topo_2_1",
+        "tasktype": "regression"
+    },
+    
+    "41021": {
+        "name": "MY",
+        "fullname": "moneyball",
+        "tasktype": "regression"
+    },
+    
+    "41265": {
+        "name": "TC",
+        "fullname": "Titanic",
+        "tasktype": "regression"
+    },
+    
+    "558": {
+        "name": "BR",
+        "fullname": "bank32nh",
+        "tasktype": "regression"
+    },
+    
+    "315": {
+        "name": "VC",
+        "fullname": "us_crime",
+        "tasktype": "regression"
+    },
+    
+    "531": {
+        "name": "HB",
+        "fullname": "boston",
+        "tasktype": "regression"
+    },
+    
+    "505": {
+        "name": "TF",
+        "fullname": "tecator",
+        "tasktype": "regression"
+    },
+    
+    "503": {
+        "name": "WD",
+        "fullname": "wind",
+        "tasktype": "regression"
+    },
+    
+    "40900": {
+        "name": "SAT",
+        "fullname": "satellite",
+        "tasktype": "binclass"
+    },
+    
+    "3": {
+        "name": "KK",
+        "fullname": "kr-vs-kp",
+        "tasktype": "binclass"
+    },
+    
+    "4534": {
+        "name": "PW",
+        "fullname": "PhishingWebsites",
+        "tasktype": "binclass"
+    },
+        
+    "23": {
+        "name": "CE",
+        "fullname": "Contraceptive Method Choice",
+        "tasktype": "multiclass"
+    },
+    
+    "1475": {
+        "name": "FT",
+        "fullname": "first-order-theorem-proving",
+        "tasktype": "multiclass"
+    },
+    
+    "12": {
+        "name": "MA",
+        "fullname": "mfeat-factors",
+        "tasktype": "multiclass"
+    },
+    
+    "1501": {
+        "name": "SE",
+        "fullname": "semeion",
+        "tasktype": "multiclass"
+    },
+    
+    "18": {
+        "name": "MR",
+        "fullname": "mfeat-morphological",
+        "tasktype": "multiclass"
+    },
+    
+    "182": {
+        "name": "SI",
+        "fullname": "satimage",
+        "tasktype": "multiclass"
+    },
+    
+    "16": {
+        "name": "MK",
+        "fullname": "mfeat-karhunen",
+        "tasktype": "multiclass"
+    },
+    
+    "32": {
+        "name": "PE",
+        "fullname": "pendigits",
+        "tasktype": "multiclass"
+    },
+    
+    "20": {
+        "name": "MP",
+        "fullname": "mfeat-pixel",
+        "tasktype": "multiclass"
+    },
+    
+    "1497": {
+        "name": "WN",
+        "fullname": "wall-robot-navigation",
+        "tasktype": "multiclass"
+    },
+    
+    "1466": {
+        "name": "CTC",
+        "fullname": "cardiotocography",
+        "tasktype": "multiclass"
+    },
+    
+    "36": {
+        "name": "SG",
+        "fullname": "segment",
+        "tasktype": "multiclass"
+    },
+    
+    "40499": {
+        "name": "TX",
+        "fullname": "texture",
+        "tasktype": "multiclass"
+    },
+    
+    "23381": {
+        "name": "DS",
+        "fullname": "dresses-sales",
+        "tasktype": "binclass"
+    },
+    
+    "24": {
+        "name": "MS",
+        "fullname": "mushroom",
+        "tasktype": "binclass"
+    },
+    
+    "53": {
+        "name": "HT",
+        "fullname": "heart-statlog",
+        "tasktype": "binclass"
+    },
+    
+    "59": {
+        "name": "IO",
+        "fullname": "ionosphere",
+        "tasktype": "binclass"
+    },
+    
+    "49": {
+        "name": "HC",
+        "fullname": "heart-c",
+        "tasktype": "binclass"
+    },
+    
+    "35": {
+        "name": "DT",
+        "fullname": "dermatology",
+        "tasktype": "multiclass"
+    },
+    
+    "171": {
+        "name": "PM",
+        "fullname": "primary-tumor",
+        "tasktype": "multiclass"
+    },
+    
+    "337": {
+        "name": "STF",
+        "fullname": "SPECTF",
+        "tasktype": "binclass"
+    },
+    
+    "338": {
+        "name": "GG",
+        "fullname": "grub-damage",
+        "tasktype": "multiclass"
+    },
+    
+    "185": {
+        "name": "BB",
+        "fullname": "baseball",
+        "tasktype": "multiclass"
+    },
+    
+    "551": {
+        "name": "AM",
+        "fullname": "analcatdata_michiganacc",
+        "tasktype": "multiclass"
+    },
+    
+    "455": {
+        "name": "CAR",
+        "fullname": "cars",
+        "tasktype": "multiclass"
+    },
+    
+    "456": {
+        "name": "ABD",
+        "fullname": "analcatdata_birthday",
+        "tasktype": "regression"
+    },
+    
+    "475": {
+        "name": "AG",
+        "fullname": "analcatdata_germangss",
+        "tasktype": "multiclass"
+    },
+    
+    "474": {
+        "name": "AMK",
+        "fullname": "analcatdata_marketing",
+        "tasktype": "multiclass"
+    },
+    
+    "461": {
+        "name": "ACS",
+        "fullname": "analcatdata_creditscore",
+        "tasktype": "binclass"
+    },
+    
+    "466": {
+        "name": "SZ",
+        "fullname": "schizo",
+        "tasktype": "binclass"
+    },
+    
+    "444": {
+        "name": "BX",
+        "fullname": "analcatdata_boxing2",
+        "tasktype": "binclass"
+    },
+    
+    "45102": {
+        "name": "DB",
+        "fullname": "dailybike",
+        "tasktype": "regression"
+    },
+    
+    "313": {
+        "name": "STM",
+        "fullname": "spectrometer",
+        "tasktype": "multiclass"
+    },
+    
+    "372": {
+        "name": "IU",
+        "fullname": "internet_usage",
+        "tasktype": "multiclass"
+    },
+    
+    "6": {
+        "name": "LT",
+        "fullname": "letter",
+        "tasktype": "multiclass"
+    },
+    
+    "40985": {
+        "name": "TE",
+        "fullname": "tamilnadu-electricity",
+        "tasktype": "multiclass"
+    },
+    
+    "40685": {
+        "name": "SH",
+        "fullname": "shuttle",
+        "tasktype": "multiclass"
+    },
+    
+    "1531": {
+        "name": "VV",
+        "fullname": "volcanoes-b1",
+        "tasktype": "multiclass"
+    },
+    
+    "26": {
+        "name": "NS",
+        "fullname": "nursery",
+        "tasktype": "multiclass"
+    },
+    
+    "42345": {
+        "name": "TV",
+        "fullname": "Traffic_violations",
+        "tasktype": "multiclass"
+    },
+    
+    "42734": {
+        "name": "OC",
+        "fullname": "okcupid-stem",
+        "tasktype": "multiclass"
+    },
+    
+    "41960": {
+        "name": "SCR",
+        "fullname": "seattlecrime6",
+        "tasktype": "multiclass"
+    },
+    
+    "1113": {
+        "name": "KDC",
+        "fullname": "KDDCup99",
+        "tasktype": "multiclass"
+    },
+    
+    "1509": {
+        "name": "WA",
+        "fullname": "walking-activity",
+        "tasktype": "multiclass"
+    },
+    
+    "210": {
+        "name": "TR",
+        "fullname": "cloud",
+        "tasktype": "regression"
+    },
+    
+    "511": {
+        "name": "PR",
+        "fullname": "plasma_retinol",
+        "tasktype": "regression"
+    },
+    
+    "507": {
+        "name": "VP",
+        "fullname": "space_ga",
+        "tasktype": "regression"
+    },
+    
+    "534": {
+        "name": "CW",
+        "fullname": "cps_85_wages",
+        "tasktype": "regression"
+    },
+    
+    "40916": {
+        "name": "HR",
+        "fullname": "HappinessRank_2015",
+        "tasktype": "regression"
+    },
+    
+    "4544": {
+        "name": "OM",
+        "fullname": "GeographicalOriginalofMusic",
+        "tasktype": "regression"
+    },
+    
+    "41702": {
+        "name": "MIP",
+        "fullname": "MIP-2016-regression",
+        "tasktype": "regression"
+    },
+    
+    "549": {
+        "name": "SV",
+        "fullname": "strikes",
+        "tasktype": "regression"
+    },
+    
+    "509": {
+        "name": "AH",
+        "fullname": "places",
+        "tasktype": "regression"
+    },
+    
+    "43962": {
+        "name": "EE",
+        "fullname": "energy_efficiency",
+        "tasktype": "regression"
+    },
+    
+    "42360": {
+        "name": "DEE",
+        "fullname": "DEE",
+        "tasktype": "regression"
+    },
+    
+    "44968": {
+        "name": "SM",
+        "fullname": "synchronous_machine",
+        "tasktype": "regression"
+    },
+    
+    "43919": {
+        "name": "AF",
+        "fullname": "airfoil_self_noise",
+        "tasktype": "regression"
+    },
+    
+    "42931": {
+        "name": "AUD",
+        "fullname": "audit-data",
+        "tasktype": "binclass"
+    },
+    
+    "43926": {
+        "name": "AMH",
+        "fullname": "ames_housing",
+        "tasktype": "regression"
+    },
+    
+    "41162": {
+        "name": "KB",
+        "fullname": "kick",
+        "tasktype": "binclass"
+    },
+    
+    "454": {
+        "name": "HF",
+        "fullname": "analcatdata_halloffame",
+        "tasktype": "multiclass"
+    },
+    
+    "4153": {
+        "name": "RH",
+        "fullname": "Smartphone-Based_Recognition_of_Human_Activities",
+        "tasktype": "multiclass"
+    },
+    
+    "43044": {
+        "name": "DD",
+        "fullname": "drug-directory",
+        "tasktype": "multiclass"
+    },
+    
+    "45714": {
+        "name": "PC",
+        "fullname": "PriceRunner",
+        "tasktype": "multiclass"
+    },
+    
+    "44005": {
+        "name": "MH",
+        "fullname": "MiamiHousing2016",
+        "tasktype": "regression"
+    },
+    
+    "40922": {
+        "name": "RW",
+        "fullname": "Run_or_walk_information",
+        "tasktype": "binclass"
+    },
+    
+    "45545": {
+        "name": "TTC",
+        "fullname": "Tour-and-Travels-Customer-Churn-Prediction",
+        "tasktype": "binclass"
+    },
+    
+    "42370": {
+        "name": "YH",
+        "fullname": "yacht_hydrodynamics",
+        "tasktype": "regression"
+    },
+    
+    "42665": {
+        "name": "RD",
+        "fullname": "ricci_vs_destefano",
+        "tasktype": "binclass"
+    },
+    
+    "44963": {
+        "name": "PP",
+        "fullname": "physiochemical_protein",
+        "tasktype": "regression"
+    },
+    
+    "44984": {
+        "name": "CWE",
+        "fullname": "cps88wages",
+        "tasktype": "regression"
+    },
+    
+    "1476": {
+        "name": "GD",
+        "fullname": "gas-drift",
+        "tasktype": "multiclass"
+    },
+    
+    "1503": {
+        "name": "SAD",
+        "fullname": "spoken-arabic-digit",
+        "tasktype": "multiclass"
+    },
+    
+    "40672": {
+        "name": "FS",
+        "fullname": "fars",
+        "tasktype": "multiclass"
+    },
+    
+    "41275": {
+        "name": "WR",
+        "fullname": "wine-reviews",
+        "tasktype": "multiclass"
+    },
+    
+    "43928": {
+        "name": "MC",
+        "fullname": "medical_charges",
+        "tasktype": "regression"
+    },
+    
+    "4135": {
+        "name": "AZ",
+        "fullname": "Amazon_employee_access",
+        "tasktype": "binclass"
+    }
+}

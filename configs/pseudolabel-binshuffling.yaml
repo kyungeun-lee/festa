@@ -1,0 +1,15 @@
+modelname: pseudolabel-binshuffling
+params:
+    depth: 2
+    width: 1024
+    dropout: 0.1
+    normalization: 
+    activation: relu
+    optimizer: AdamW
+    learning_rate: 0.001
+    weight_decay: 0.0001
+    lr_scheduler: True
+    unsup_weight: 1
+    boundarytype: 0
+    unsup_weight: 1
+    n_epochs: 20

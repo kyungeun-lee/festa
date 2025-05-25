@@ -1,0 +1,14 @@
+modelname: stunt
+params:
+    depth: 2
+    width: 1024
+    dropout: 0.
+    normalization: 
+    activation: relu
+    optimizer: Adam
+    learning_rate: 0.001
+    weight_decay: 0.0001
+    lr_scheduler: False
+    n_steps: 10000
+    seed: 1
+    eval_step: 10

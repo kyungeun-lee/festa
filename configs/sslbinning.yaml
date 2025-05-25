@@ -1,0 +1,21 @@
+modelname: sslbinning
+ssl_loss: mse_binning
+params:
+    depth: 2
+    width: 1024
+    dropout: 0.1
+    normalization: 
+    activation: relu
+    optimizer: AdamW
+    ssl_learning_rate: 0.0001
+    ssl_weight_decay: 0.00001
+    ssl_lr_scheduler: True
+    ssl_epochs: 1000
+    le_learning_rate: 0.01
+    le_weight_decay: 0.
+    le_lr_scheduler: True
+    le_epochs: 100
+    ft_learning_rate: 0.001
+    ft_weight_decay: 0.00001
+    ft_lr_scheduler: True
+    ft_epochs: 100

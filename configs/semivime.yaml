@@ -1,0 +1,12 @@
+modelname: semivime
+params:
+    depth: 2
+    width: 100
+    dropout: 0.
+    normalization: 
+    activation: relu
+    optimizer: Adam
+    learning_rate: 0.001
+    weight_decay: 0.
+    lr_scheduler: False
+    n_steps: 1000
